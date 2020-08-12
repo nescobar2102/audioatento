@@ -1,5 +1,5 @@
 <?php
-
+//estoy en el feature simplex
 class index extends CI_Controller {
 
     public function test1() {
